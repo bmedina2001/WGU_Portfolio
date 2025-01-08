@@ -1,3 +1,5 @@
+
+This is to get me started on GitHub and WGU. Thank you to the person who put this together. 
 # WGU_Portfolio
 (~~This is a portfolio of my work in the MS Data Analysis degree program at Western Governors University. This functions both as a demonstration of my work for prospective employers and a resource to students in either program.~~)
 # WGU Portfolio
